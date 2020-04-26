@@ -1,0 +1,14 @@
+Taziri Dog
+20
+Nimbus Cat
+10
+Jinxy Cat
+5
+Golfer 1
+20
+Golfer 2
+10
+Taziri Dog
+10
+Nimbus Cat
+20
